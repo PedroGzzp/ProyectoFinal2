@@ -95,7 +95,7 @@
           catch (error) {
             console.log(error);
           }
-          // this.$emit("signed", this.usuario)
+
         }
       },
       validarNombre(){
